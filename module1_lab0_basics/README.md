@@ -1,6 +1,6 @@
 ### Homework evidence table
 
-[](https://github.com/MattersWorld/Class8-week1/tree/main/module_1/lab0_basics#homework-evidence-table)
+https://github.com/Rosmound/Class-8_lab0/tree/main/module1_lab0_basics#homework-evidence-table
 
 | Deployment | Public IPv4 address | Connection method   | Screenshot                     | Instance terminated? |
 | ---------- | ------------------- | ------------------- | ------------------------------ | -------------------- |
@@ -10,9 +10,9 @@
 
 
 
-Instance ID: i-Od9d704cf8f78f6e3 Instance Type: t3.micro (us-east-1)
-Instance ID: i-Od9d704cf8f78f6e3 Instance Type: t3.micro (us-east-1)
-Instance ID: i-0d4c120c23e6b6e57 Instance Type: t3.micro (eu-west-2)
+Instance ID: i-Od9d704cf8f78f6e3 Instance Type: t3.micro (us-east-1) ||
+Instance ID: i-Od9d704cf8f78f6e3 Instance Type: t3.micro (us-east-1) ||
+Instance ID: i-0d4c120c23e6b6e57 Instance Type: t3.micro (eu-west-2) ||
 
 
 I created 4 Instances. The first was creating in class however, I didnt set the correct region to every subsequent instance was creating in the incorrect region of (North Virginia).
